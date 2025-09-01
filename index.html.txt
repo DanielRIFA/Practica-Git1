@@ -19,6 +19,11 @@
 
 <ul>
 	<li>git checkout permite </li>
+	<li>git checkout nombre_branching navega entre ramas</li>
+	<li>git branch nueva_branch crea una nueva rama</li>
+	<li>git checkout version avega entre versiones</li>
+	<li>git merge branch_name combina ramas</li>
+
 </ul>
 
 
