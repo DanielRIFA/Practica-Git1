@@ -1,0 +1,21 @@
+!<DOCTYPE html>
+<html>
+
+
+
+</head>
+<body>
+<h1></h1>
+
+<ul>
+	<li>git init inicializa un repositorio</li>
+	<li>git add nombre_archivo agrega un archivo a; area preparado</li>
+	<li>git commit -m "mensaje"</li>
+	<li>git push guarda en el repositorio remoto</li>
+	<li>git status verifica el estado de archivos</li>
+	<li>git log muestra las versiones guardadas </li>
+</ul>
+
+
+</body>
+</html>
