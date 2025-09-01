@@ -17,5 +17,10 @@
 </ul>
 
 
+<ul>
+	<li>git checkout permite </li>
+</ul>
+
+
 </body>
 </html>
